@@ -1,0 +1,54 @@
+[33mcommit be8e2015f6d48f729a19b683aca7711005a3b2b9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 2b2ea74 9830845
+Author: jeremy zeta <j.zeta@ytphil.jp>
+Date:   Mon Jan 23 10:30:24 2023 +0800
+
+    Merge branch 'bugFix'
+
+[33mcommit 9830845f590c3a791cf5a29caeaf0a7666e8ca14[m[33m ([m[1;31morigin/bugFix[m[33m, [m[1;32mbugFix[m[33m, [m[1;32ma[m[33m)[m
+Author: jeremy zeta <j.zeta@ytphil.jp>
+Date:   Mon Jan 23 10:14:58 2023 +0800
+
+    fifth commit
+
+[33mcommit 2b2ea740c0ed7173e442b891a3d52698abd28b6d[m
+Author: jeremy zeta <j.zeta@ytphil.jp>
+Date:   Mon Jan 23 10:07:08 2023 +0800
+
+    testcommit
+
+[33mcommit 22bd42d6741dd9a999d5eee62d9dec5f8dbc9dbe[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: jeremy zeta <j.zeta@ytphil.jp>
+Date:   Mon Jan 23 10:02:13 2023 +0800
+
+    master fourth commit
+
+[33mcommit 2d2f78ec1f4dc1fa6ef224df57b0aff90471ef73[m
+Author: jeremy zeta <j.zeta@ytphil.jp>
+Date:   Mon Jan 23 10:00:10 2023 +0800
+
+    master third commit
+
+[33mcommit ba5296e6a255c6032b7088dac3f436d67be330c0[m
+Author: jeremy zeta <j.zeta@ytphil.jp>
+Date:   Mon Jan 23 09:59:11 2023 +0800
+
+    fourth commit
+
+[33mcommit 09c578fc7cf231872aacd234dadb90c98bf6a32c[m
+Author: jeremy zeta <j.zeta@ytphil.jp>
+Date:   Mon Jan 23 09:44:55 2023 +0800
+
+    third commit
+
+[33mcommit 8ffc7a2974ab1371bf3ced25e1813fdbac68cefc[m
+Author: jeremy zeta <j.zeta@ytphil.jp>
+Date:   Mon Jan 23 09:35:46 2023 +0800
+
+    second commit
+
+[33mcommit e5ff2c29b168cea2e7477021c109caa79ee3e99b[m
+Author: jeremy zeta <j.zeta@ytphil.jp>
+Date:   Mon Jan 23 09:33:21 2023 +0800
+
+    first commit
